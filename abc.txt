@@ -8,6 +8,10 @@
 笑书神侠倚碧鸳.
 
 
+<<<<<<< HEAD
 好好学习, 将来开大G!  
 巴博斯.
 reps4 修改
+=======
+repository2 仓库修改了内容
+>>>>>>> cbf7b24fe7ffdac66ea1d06d70cbe2552d6f04a3
